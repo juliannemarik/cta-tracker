@@ -1,0 +1,33 @@
+#operatingTrains {
+  padding: 10px;
+  border-collapse: collapse;
+  width: 100%;
+}
+#red{
+  color: #c60c30;
+}
+#blue{
+  color:#00a1de;
+}
+#brn{
+  color:#62361b
+}
+#g{
+  color:#009b3a
+}
+#org{
+  color:#f9461c
+}
+#pink{
+  color:#e27ea6
+}
+th, td {
+  border-bottom: 1px solid #bbb;
+}
+th {
+  border-right: 1px solid #bbb;
+}
+th, td{
+  padding: 10px;
+  text-align: left;
+}
